@@ -1,0 +1,74 @@
+___WELCOME___
+Hello and welcome to this discord bot! This might seem like a lot, but trust me it is not!!!
+I will walk you through everything you will need to get this bot up and running!
+Once you launch the bot again it will ask you to enter a few different things (Bot Token, Auto Give Role, Command Prefix, Currency Name, Starting Balance, and Amount to be able to apply for a loan)
+
+
+___EXPLANATION___
+Bot Token - Can be found here = https://discordpy.readthedocs.io/en/rewrite/discord.html 
+Auto Give Role - Is the default role in your server. When a new user joins your discord the bot will give them that role on it's own (make sure to enter exactly what the role is. It's case-sensitive 
+Command Prefix - What symbol comes before a command such as: ('/', '!') only enter one
+Currency Name - The name you want your currency to be (EX: Penguins, Coffey Cups, or Coins) it can be anything you would like it to be
+Start Balance - Is the balance you want when a new bank account is made this can be any amount (NO DECIMALS) whatever you think is fair
+Loan Minimum Amount - This is the minimum amount someone can have in their bank account before they are allowed to apply for a loan using the command. This amount must be equal to or less than the Starting amount or balance
+
+
+___FALLBACK___
+Config.ini fallback values (Default values NULL=Bot will not work without it):
+Bot Token = NULL
+Command Prefix = !
+Auto Role = Test Role
+Currency Name = Money
+Bank Starting Balance = 1000
+Minimum Loan = 100
+Bot Playing = With Humans
+
+
+___FEATURES___
+You can now disable/enable a few features such as:
+The Reddit command
+The DMRedditInfo (This will dictate if the bot gives the pulled reddit information to the user via their DMs or in chat room they requested it in)
+The Insult command
+The Cards command
+The Discord voice commands
+The Restricted voice (If voice commands should only be allowed in a specific text channel)The Not Needed msg (This is spam control this will limit the response from the bot to only needed messages)
+The Quiet Download (If False will display the song downloading/If True will hide the song downloading)
+
+
+___OPTIONS___
+>>MAKING MESSAGE 'Start Options' COME BACK:
+Locate 'config.ini file should be in the 'Other' folder thats located where the bot files are.
+You can open it with notepad or notepad++ (I would use notepad++)
+Then change 'startoptions' under the 'default' section to 'True'
+If you can not figure it out just delete the 'config.ini' file (will have to re-enter variables)
+>>RESTRICT VOICE COMMANDS TO ONLY ONE TEXT CHANNEL
+The bot offers a feature to only allow the voice control commands in a text channel of your choice
+To enable this feature open the 'config.ini' file (location is described above)
+Under the 'features' change 'restrictvoice' to 'True'
+Then under the 'var' section delete the 4 zeros next to 'ChannelTextId' then paste the text channel id you want the voice commands to work in.
+How To get channel IDs: https://github.com/Chikachi/DiscordIntegration/wiki/How-to-get-a-token-and-channel-ID-for-Discord#get-the-channel-id-of-the-discord-text-channel 
+EX:
+ChannelTextId = 576477347507863562
+restrictvoice = True
+
+___REDDIT___
+This section will explain how to get the for reddit command to work
+First you will need a reddit bot for this to work. To get one log in to any reddit account
+Then click preferences in the top right then you should see an 'apps' tab near the top click that
+Then click the button that says 'create another app', name the bot, select the 'script' option, type up a description, and then fill in the URLs any URL will work for those
+After this your bot should show up in the list click the edit button you will need two keys from the bot
+Right under the name of the bot should see a key (ex: tadDgDrUW-wvcn) this is the client ID
+The last key you will need is the one labeled 'SECRET' (ex: Dpwt_noa8S2YBgpa_uox4mFNqv6) This is the client secret
+The last two things you will need is your account username and password that the reddit bot you just made is associated with
+To input this so the discord bot can use it make sure that in the 'config.ini' under the DEFAULT section that 'startoptions' is True (This can be set to False after you input the bot info)
+Now when you restart the bot there will be a list of options press 'r' then hit ENTER Then input the information as labeled
+This will save the reddit bot info to your computer and turn the for Reddit command on
+
+___ERROR CODES___
+1 = In Config 'loanminimum' is larger than 'startbalance' FIX: Edit config with notepad or Notepad++to make 'startbalance' larger than 'loanminimum'
+If a green warning saying the for reddit command will not work: see REDDIT section for help
+
+___END___
+I would recommend getting the program notepad++ to open the files in the 'Other' folder.
+Notepad++ download link: https://notepad-plus-plus.org/download/v7.7.html 
+If you delete this file the bot will ask if you have launched it before so keep this file here

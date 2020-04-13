@@ -1,0 +1,291 @@
+<Sun, 04/12/2020 02:44:50PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 02:44:58PM> Lawson(id:227482395622899723): /register
+<Sun, 04/12/2020 02:45:01PM> Lawson(id:227482395622899723): ?register
+<Sun, 04/12/2020 02:45:11PM> Lawson(id:227482395622899723): ?vhelp
+<Sun, 04/12/2020 02:45:37PM> Lawson(id:227482395622899723): ?play cheese
+<Sun, 04/12/2020 02:46:08PM> Lawson(id:227482395622899723): ?play https://www.youtube.com/watch?v=juoznBaQbJE
+<Sun, 04/12/2020 02:50:03PM> Lawson(id:227482395622899723): ?play https://www.youtube.com/watch?v=juoznBaQbJE
+<Sun, 04/12/2020 02:50:34PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 02:50:44PM> Lawson(id:227482395622899723): ?vhelp
+<Sun, 04/12/2020 02:50:55PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 02:50:34PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 02:53:25PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:01:04PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:01:13PM> Lawson(id:227482395622899723): ?play https://www.youtube.com/watch?v=juoznBaQbJE
+<Sun, 04/12/2020 03:01:58PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 03:02:12PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 03:03:46PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:04:04PM> Lawson(id:227482395622899723): ?play https://www.youtube.com/watch?v=jQs6DjFahvI
+<Sun, 04/12/2020 03:05:12PM> Lawson(id:227482395622899723): ?ahelp
+<Sun, 04/12/2020 03:06:41PM> Jozef(id:427113312220610581): ?play https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp?si=Uj8vq_T9ThWfaYD2sII16g
+<Sun, 04/12/2020 03:07:31PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/4IOmpWHND1FVjT7EFeZhLp?si=Uj8vq_T9ThWfaYD2sII16g
+<Sun, 04/12/2020 03:10:43PM> Lawson(id:227482395622899723): ?insult <@!427113312220610581>
+<Sun, 04/12/2020 03:11:44PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/1YXUD5D1ZRSaKZRZME4UB5
+<Sun, 04/12/2020 03:14:29PM> Lawson(id:227482395622899723): ?urbandic
+<Sun, 04/12/2020 03:15:13PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 03:16:21PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/1YXUD5D1ZRSaKZRZME4UB5
+<Sun, 04/12/2020 03:16:48PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 03:16:53PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:17:01PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/1YXUD5D1ZRSaKZRZME4UB5
+<Sun, 04/12/2020 03:17:25PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 03:17:30PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:18:01PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/5gMXWDHHrmphpYm5yAQtTG
+<Sun, 04/12/2020 03:21:06PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/playlist/2SOq50jjczZ8inFRn08Fe8
+<Sun, 04/12/2020 03:22:34PM> Crommy(id:319403178976083968): devil n cheese monster
+<Sun, 04/12/2020 03:24:55PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 03:26:27PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:26:31PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr
+<Sun, 04/12/2020 03:26:45PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/4a87wpeqAcOv03pYihEzku
+<Sun, 04/12/2020 03:26:58PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7vfWgVGiLgnGbInU5lvSQg
+<Sun, 04/12/2020 03:27:12PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn
+<Sun, 04/12/2020 03:27:33PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 03:27:45PM> Lawson(id:227482395622899723): ?play
+<Sun, 04/12/2020 03:28:01PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/4a87wpeqAcOv03pYihEzku
+<Sun, 04/12/2020 03:28:49PM> Lawson(id:227482395622899723): ?resume
+<Sun, 04/12/2020 03:28:54PM> Lawson(id:227482395622899723): ?pause
+<Sun, 04/12/2020 03:29:05PM> Lawson(id:227482395622899723): ?next
+<Sun, 04/12/2020 03:29:11PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/4a87wpeqAcOv03pYihEzku
+<Sun, 04/12/2020 03:32:20PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+<Sun, 04/12/2020 03:32:38PM> Lawson(id:227482395622899723): ?next
+<Sun, 04/12/2020 03:37:54PM> Lawson(id:227482395622899723): ?next
+<Sun, 04/12/2020 03:39:31PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h
+<Sun, 04/12/2020 03:46:10PM> LJ xD(id:264173560585650178): 
+<Sun, 04/12/2020 03:53:27PM> Lawson(id:227482395622899723): ?play https://www.youtube.com/watch?v=V5-hvyaSdzc
+<Sun, 04/12/2020 03:56:08PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7d6XJZjnm7iWcKwYL9z5kC
+<Sun, 04/12/2020 03:56:27PM> Lawson(id:227482395622899723): ?next
+<Sun, 04/12/2020 04:01:47PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/6dtYJ5yiTP5wTZxRRLc4Qm
+<Sun, 04/12/2020 04:02:21PM> Lawson(id:227482395622899723): ?next
+<Sun, 04/12/2020 04:03:01PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/6dtYJ5yiTP5wTZxRRLc4Qm
+<Sun, 04/12/2020 04:05:26PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/49NfxyLSligVqFKnKRzbDR
+<Sun, 04/12/2020 04:13:45PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 04:13:49PM> Lawson(id:227482395622899723): ?register
+<Sun, 04/12/2020 04:24:33PM> Blue(id:182144322869657600): https://www.youtube.com/watch?v=s9US7TBqQxI
+<Sun, 04/12/2020 04:31:12PM> Jozef(id:427113312220610581): ?register
+<Sun, 04/12/2020 03:15:28PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 04:32:41PM> Jozef(id:427113312220610581): ?play https://open.spotify.com/track/7vTspUAmMKFkUpKL9HLZNL?si=Hixs9msQSBKANV6aWoxsLw
+<Sun, 04/12/2020 04:33:15PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 04:33:27PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/7vTspUAmMKFkUpKL9HLZNL?si=Hixs9msQSBKANV6aWoxsLw
+<Sun, 04/12/2020 04:34:09PM> Lawson(id:227482395622899723): <@!240139338355179522>  try register
+<Sun, 04/12/2020 04:34:46PM> Lawson(id:227482395622899723): ?insult <@!240139338355179522>
+<Sun, 04/12/2020 04:35:08PM> Lawson(id:227482395622899723): ?insult <@!240139338355179522>
+<Sun, 04/12/2020 04:36:17PM> Lawson(id:227482395622899723): ?pause
+<Sun, 04/12/2020 04:36:42PM> Lawson(id:227482395622899723): Ignoring exception in on_message
+Traceback (most recent call last):
+  File "Bot_Spud.py", line 164, in on_message
+    log.write("<" + c_time.strftime("%a, %m/%d/%Y %I:%M:%S%p") + f"> {user}(id:{id}): {msg}\n")
+  File "C:\Users\Joshua\AppData\Local\Programs\Python\Python37-32\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u03b5' in position 30: character maps to <undefined>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Joshua\AppData\Local\Programs\Python\Python37-32\lib\site-packages\discord\client.py", line 312, in _run_event
+    await coro(*args, **kwargs)
+  File "Bot_Spud.py", line 166, in on_message
+    log.write("<" + c_time.strftime("%a, %m/%d/%Y %I:%M:%S%p") + f"> {user}(id:{id}): *Emoji*\n")
+  File "C:\Users\Joshua\AppData\Local\Programs\Python\Python37-32\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u03b5' in position 30: character maps to <undefined>
+<Sun, 04/12/2020 04:40:00PM> Lawson(id:227482395622899723): <@!240139338355179522>  try now
+<Sun, 04/12/2020 04:40:59PM> Lawson(id:227482395622899723): ?register
+<Sun, 04/12/2020 04:42:09PM> Blue(id:182144322869657600): ?register
+<Sun, 04/12/2020 04:43:28PM> Lawson(id:227482395622899723): ?changes
+<Sun, 04/12/2020 04:43:52PM> Lawson(id:227482395622899723): ?insult <@!240139338355179522>
+<Sun, 04/12/2020 04:46:00PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/4v6B634G7SZ2iTyQuurP6o
+<Sun, 04/12/2020 04:46:27PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 04:46:34PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/4v6B634G7SZ2iTyQuurP6o
+<Sun, 04/12/2020 04:47:36PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/3hBxVh3gp2N8Dwxnjwe0HA
+<Sun, 04/12/2020 04:56:50PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 04:57:02PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 04:57:57PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/5rwsJbBNa8SfPW4oFA1GjP
+<Sun, 04/12/2020 04:58:05PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/5rwsJbBNa8SfPW4oFA1GjP
+<Sun, 04/12/2020 04:58:12PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 04:58:15PM> Lawson(id:227482395622899723): ?join
+<Sun, 04/12/2020 04:58:25PM> Lawson(id:227482395622899723): ?resume
+<Sun, 04/12/2020 04:58:28PM> Lawson(id:227482395622899723): ?play
+<Sun, 04/12/2020 04:58:56PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 04:59:11PM> Lawson(id:227482395622899723): ?help
+<Sun, 04/12/2020 04:59:26PM> Lawson(id:227482395622899723): ?leave
+<Sun, 04/12/2020 04:59:41PM> Lawson(id:227482395622899723): ?stop
+<Sun, 04/12/2020 05:02:50PM> Lawson(id:227482395622899723): ?register
+<Sun, 04/12/2020 05:02:56PM> Lawson(id:227482395622899723): ?insult <@!240139338355179522>
+<Sun, 04/12/2020 05:03:38PM> Jozef(id:427113312220610581): ?insult <@&698334726599213117>
+<Sun, 04/12/2020 05:03:54PM> Lawson(id:227482395622899723): ?urbandic
+<Sun, 04/12/2020 05:04:51PM> Crommy(id:319403178976083968): ?insult <@!264173560585650178>
+<Sun, 04/12/2020 05:40:29PM> LJ xD(id:264173560585650178): 
+<Sun, 04/12/2020 05:41:28PM> LJ xD(id:264173560585650178): 
+<Sun, 04/12/2020 06:40:50PM> LJ xD(id:264173560585650178): *Emoji*
+<Sun, 04/12/2020 06:41:15PM> Jozef(id:427113312220610581): *Emoji*
+<Sun, 04/12/2020 06:41:18PM> Jozef(id:427113312220610581): canadia
+<Sun, 04/12/2020 06:41:22PM> Jenson(id:160732684815958017): "That's Canadia ^^^" -Simon
+<Sun, 04/12/2020 06:41:23PM> Crommy(id:319403178976083968): *Emoji*
+<Sun, 04/12/2020 06:41:25PM> LJ xD(id:264173560585650178): *Emoji*
+<Sun, 04/12/2020 07:49:57PM> LJ xD(id:264173560585650178): ?insult <@!319403178976083968>
+<Sun, 04/12/2020 09:06:33PM> Jozef(id:427113312220610581): !p astronomia coffine meme song
+<Sun, 04/12/2020 09:06:33PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 09:06:34PM> Rythm(id:235088799074484224): 
+<Sun, 04/12/2020 09:07:00PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 09:07:03PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 09:15:14PM> Jozef(id:427113312220610581): !p sketchers
+<Sun, 04/12/2020 09:15:14PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 09:15:15PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 09:42:33PM> Chimpy(id:318849319581253633): shut
+<Sun, 04/12/2020 11:28:11PM> Jozef(id:427113312220610581): !p yankee with no brim
+<Sun, 04/12/2020 11:28:11PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 11:28:11PM> Rythm(id:235088799074484224): *Emoji*
+<Sun, 04/12/2020 11:30:25PM> Crommy(id:319403178976083968): Q - Thats not what I think it is! _
+<Sun, 04/12/2020 11:32:00PM> Crommy(id:319403178976083968): A - throwing a water balloon full of spunk at Mr Barron
+<Sun, 04/12/2020 11:32:29PM> Crommy(id:319403178976083968): A - Mr Simpsons missing testicle
+<Sun, 04/12/2020 11:33:58PM> Crommy(id:319403178976083968): A - I dont remember asking
+<Sun, 04/12/2020 11:35:30PM> Crommy(id:319403178976083968): Q- Damn bruh, I never knew _ turned you into _
+<Sun, 04/12/2020 11:36:39PM> Crommy(id:319403178976083968): A - putting your finger in Matas' Hoop
+<Sun, 04/12/2020 11:37:35PM> Crommy(id:319403178976083968): Q - Ok Geographers, today we will be doing _
+<Sun, 04/12/2020 11:38:23PM> Crommy(id:319403178976083968): A - stumbling upon Ms Townson's lesbian BDSM chamber
+<Sun, 04/12/2020 11:38:56PM> Crommy(id:319403178976083968): Q - _ is to the left of the 2 black keys
+<Sun, 04/12/2020 11:40:40PM> Crommy(id:319403178976083968): A - receiving a backrub from Mr Hoole
+<Sun, 04/12/2020 11:41:34PM> Crommy(id:319403178976083968): Q - Oi, stop right there young man! Why have you got _ in your blazer pocket?
+<Sun, 04/12/2020 11:42:19PM> Crommy(id:319403178976083968): A- Mr Walmsley's box of Annie's eyelashes
+<Sun, 04/12/2020 11:43:21PM> Crommy(id:319403178976083968): A - scranning a fat chicks sausage roll
+<Sun, 04/12/2020 11:43:52PM> Crommy(id:319403178976083968): A - rubbing your cock in dairylee
+<Sun, 04/12/2020 11:44:34PM> Crommy(id:319403178976083968): Q- Mom, Can we start _ now?
+<Sun, 04/12/2020 11:45:32PM> Crommy(id:319403178976083968): A - robbing Steven Hickeys karambit knife collection
+<Sun, 04/12/2020 11:46:00PM> Crommy(id:319403178976083968): A- stiff cocks
+<Sun, 04/12/2020 11:46:14PM> Crommy(id:319403178976083968): A - umbrella handle
+<Sun, 04/12/2020 11:46:30PM> Crommy(id:319403178976083968): Q- Things I've shoved up my ass: _
+<Sun, 04/12/2020 11:47:31PM> Crommy(id:319403178976083968): A- watching Harry shit himself playing horror games
+<Sun, 04/12/2020 11:48:44PM> Crommy(id:319403178976083968): A- growing a neckbeard
+<Sun, 04/12/2020 11:50:35PM> Crommy(id:319403178976083968): Q- I heard if you put _ in your deffie you get proper blitzed g, swear down!
+<Sun, 04/12/2020 11:51:41PM> Crommy(id:319403178976083968): Q- Alex Carling asking for a swig on your Apple and Blackcurrant CapriSun
+<Sun, 04/12/2020 11:52:32PM> Crommy(id:319403178976083968): Q- I was enjoying my day until _
+<Sun, 04/12/2020 11:53:12PM> Crommy(id:319403178976083968): Q- Hes big, hes round, he bounces all around its _
+<Sun, 04/12/2020 11:53:30PM> Crommy(id:319403178976083968): Q- Lmaooooo imagine not_
+<Sun, 04/12/2020 11:54:07PM> Crommy(id:319403178976083968): Q- I was on Pornhub the other day and found _
+<Sun, 04/12/2020 11:54:22PM> Crommy(id:319403178976083968): A- Caddyboo pounding Brandon Hyatt
+<Sun, 04/12/2020 11:55:03PM> Crommy(id:319403178976083968): Q - Remember when all the girls saw_
+<Sun, 04/12/2020 11:55:21PM> Crommy(id:319403178976083968): A- Liam Montgomery's micropenis
+<Sun, 04/12/2020 11:55:52PM> Crommy(id:319403178976083968): Q- Who ate the cake?
+<Sun, 04/12/2020 11:55:57PM> Crommy(id:319403178976083968): A - Joe Mama
+<Sun, 04/12/2020 11:57:06PM> Crommy(id:319403178976083968): Q- Imagine if we _ , im just kidding... unless?
+<Sun, 04/12/2020 11:58:29PM> Crommy(id:319403178976083968): A - stuffing your ass with bog roll
+<Sun, 04/12/2020 11:59:09PM> Crommy(id:319403178976083968): Q - I really wanna eat _
+<Mon, 04/13/2020 12:00:08AM> Crommy(id:319403178976083968): A- watching George Lopez Season 2 Episode 7
+<Mon, 04/13/2020 12:00:58AM> Crommy(id:319403178976083968): A- scranning a fat choc ice after mass
+<Mon, 04/13/2020 12:01:17AM> Crommy(id:319403178976083968): Q- 911 victims
+<Mon, 04/13/2020 12:02:21AM> Crommy(id:319403178976083968): A- a homeless girls pussy
+<Mon, 04/13/2020 12:02:44AM> Crommy(id:319403178976083968): Q- Wait? Did you just _
+<Mon, 04/13/2020 12:02:54AM> Crommy(id:319403178976083968): A- Cum inside me
+<Mon, 04/13/2020 12:03:44AM> Crommy(id:319403178976083968): Q- OMG I JUST GOT _ IN AN ALPHA PACK
+<Mon, 04/13/2020 12:05:02AM> Crommy(id:319403178976083968): A- fucking up Barry Whitley's internet for the lols
+<Mon, 04/13/2020 12:05:46AM> Crommy(id:319403178976083968): Q- Hi yeah erm can I get a pizza and chips with a little bit of _
+<Mon, 04/13/2020 12:06:07AM> Crommy(id:319403178976083968): Q- Excuse me, I just want to let you know that _
+<Mon, 04/13/2020 12:07:49AM> Crommy(id:319403178976083968): Q- Dayummm is that really _
+<Mon, 04/13/2020 12:08:51AM> Crommy(id:319403178976083968): Q- I hope you liked Christmas dinner everyone, I stuffed the turkey with _ for a change.
+<Mon, 04/13/2020 12:08:58AM> Crommy(id:319403178976083968): A - Nans ashes
+<Mon, 04/13/2020 12:09:22AM> Crommy(id:319403178976083968): A- Vaginal mucus
+<Mon, 04/13/2020 12:10:33AM> Crommy(id:319403178976083968): Q- Oi, give us a do on _
+<Mon, 04/13/2020 12:11:29AM> Crommy(id:319403178976083968): A - 35p Energy drink
+<Mon, 04/13/2020 12:12:01AM> Crommy(id:319403178976083968): Q- Ouch! I knew i should'nt have done all them _
+<Mon, 04/13/2020 12:12:50AM> Crommy(id:319403178976083968): Q- Honey, tea is ready! Its _ so come get it whilst its hot!
+<Mon, 04/13/2020 12:13:27AM> Crommy(id:319403178976083968): Q- Mom - "The food isn't even that hot"
+<Mon, 04/13/2020 12:14:34AM> Crommy(id:319403178976083968): A- Mr Salmons Dark Room
+<Mon, 04/13/2020 12:15:05AM> Crommy(id:319403178976083968): A - giving the whole school salmonella cos you didnt wash up your pans after food tech
+<Mon, 04/13/2020 12:38:00AM> Crommy(id:319403178976083968): A - an eighth and a pack of quavers
+<Mon, 04/13/2020 12:44:51AM> Jenson(id:160732684815958017): Q - Simon chats more shit than __
+<Mon, 04/13/2020 12:45:24AM> Jenson(id:160732684815958017): A - A dog's arse
+<Mon, 04/13/2020 12:45:57AM> Jenson(id:160732684815958017): A - The Qur'an
+<Mon, 04/13/2020 12:46:28AM> Jenson(id:160732684815958017): *Emoji*
+<Mon, 04/13/2020 05:58:32AM> LJ xD(id:264173560585650178): A - Skillage
+<Mon, 04/13/2020 05:59:43AM> LJ xD(id:264173560585650178): Q- What did LJ have in his Deffie today? ___
+<Mon, 04/13/2020 06:47:49AM> LJ xD(id:264173560585650178): Q - What does Corbin get up to?
+<Mon, 04/13/2020 06:49:28AM> LJ xD(id:264173560585650178): A - Being a kiddy fiddler                                                                                                                                                                                                                                                                               A - Sniffing that 12's pussy                                                                                                                                                                                                                                                                           A - If their age is on the clock, There on Corbins cock
+<Mon, 04/13/2020 09:13:58AM> Lawson(id:227482395622899723): !play https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB
+<Mon, 04/13/2020 09:13:58AM> Rythm(id:235088799074484224): *Emoji*
+<Mon, 04/13/2020 09:13:58AM> Rythm(id:235088799074484224): *Emoji*
+<Mon, 04/13/2020 09:14:03AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB
+<Mon, 04/13/2020 09:14:16AM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 09:20:50AM> Lawson(id:227482395622899723): ?vhelp
+<Mon, 04/13/2020 09:20:23AM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 09:50:46AM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 09:50:51AM> Lawson(id:227482395622899723): !play https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB
+<Mon, 04/13/2020 09:50:51AM> Rythm(id:235088799074484224): *Emoji*
+<Mon, 04/13/2020 09:50:51AM> Rythm(id:235088799074484224): *Emoji*
+<Mon, 04/13/2020 09:50:57AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/1VUGWjzlqudhTqvhc17miB
+<Mon, 04/13/2020 09:54:42AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/1iSqfoUFnQwV0QW1EfUit8
+<Mon, 04/13/2020 09:57:55AM> LJ xD(id:264173560585650178): 
+<Mon, 04/13/2020 09:57:57AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/18czZN7uruOjftj71Kt8oj
+<Mon, 04/13/2020 09:58:12AM> Jenson(id:160732684815958017): A - Suck a big fat penis reheheh
+<Mon, 04/13/2020 09:58:47AM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 10:02:46AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+<Mon, 04/13/2020 10:03:03AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+<Mon, 04/13/2020 10:04:17AM> Lawson(id:227482395622899723): ?play
+<Mon, 04/13/2020 10:04:22AM> Lawson(id:227482395622899723): ?sjip
+<Mon, 04/13/2020 10:04:25AM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 10:05:04AM> Lawson(id:227482395622899723): ?leave
+<Mon, 04/13/2020 10:06:04AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+<Mon, 04/13/2020 10:06:24AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+<Mon, 04/13/2020 10:07:39AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+<Mon, 04/13/2020 10:08:03AM> Jozef(id:427113312220610581): Lucky cunt simon
+<Mon, 04/13/2020 10:08:21AM> Lawson(id:227482395622899723): ikr
+<Mon, 04/13/2020 10:08:30AM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 10:08:37AM> Jozef(id:427113312220610581): whos stream was he watching
+<Mon, 04/13/2020 10:08:37AM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK
+<Mon, 04/13/2020 10:09:14AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7aiClxsDWFRQ0Kzk5KI5ku
+<Mon, 04/13/2020 10:10:15AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+<Mon, 04/13/2020 10:12:38AM> Jenson(id:160732684815958017): Why haven’t I got a sick cunt role yet tf
+<Mon, 04/13/2020 10:12:52AM> Jenson(id:160732684815958017): I’m finna flying headbutt someone in a min
+<Mon, 04/13/2020 10:14:36AM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 10:14:40AM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 10:14:45AM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 10:17:23AM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ
+<Mon, 04/13/2020 01:06:00PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+<Mon, 04/13/2020 01:06:36PM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 01:06:46PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+<Mon, 04/13/2020 01:08:56PM> Lawson(id:227482395622899723): ?roll
+<Mon, 04/13/2020 01:09:19PM> Lawson(id:227482395622899723): ?urbandic
+<Mon, 04/13/2020 01:09:29PM> Lawson(id:227482395622899723): ?urbandic
+<Mon, 04/13/2020 01:09:43PM> Lawson(id:227482395622899723): ?insult <@!427113312220610581>
+<Mon, 04/13/2020 01:10:15PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn
+<Mon, 04/13/2020 01:11:48PM> Lawson(id:227482395622899723): ?volume
+<Mon, 04/13/2020 01:11:56PM> Lawson(id:227482395622899723): ?volume 100
+<Mon, 04/13/2020 01:14:28PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/7vseIfb8ooQmXzisuinchZ
+<Mon, 04/13/2020 01:14:43PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/0CxJ04LEwoC3c8jGZJZoib
+<Mon, 04/13/2020 01:15:07PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo
+<Mon, 04/13/2020 01:15:20PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0
+<Mon, 04/13/2020 01:15:37PM> Lawson(id:227482395622899723): ?queue https://open.spotify.com/track/0P8r9zWbApLM2h8fcfplgU
+<Mon, 04/13/2020 01:16:39PM> Crommy(id:319403178976083968): scissors
+<Mon, 04/13/2020 01:16:39PM> LJ xD(id:264173560585650178): :rock:
+<Mon, 04/13/2020 01:18:17PM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 01:19:27PM> Lawson(id:227482395622899723): ?test
+<Mon, 04/13/2020 01:26:48PM> Lawson(id:227482395622899723): ?pause
+<Mon, 04/13/2020 01:28:57PM> Lawson(id:227482395622899723): ?vol
+<Mon, 04/13/2020 01:29:07PM> Lawson(id:227482395622899723): ?vol 50
+<Mon, 04/13/2020 01:29:46PM> Lawson(id:227482395622899723): ?leave
+<Mon, 04/13/2020 01:32:26PM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 01:32:32PM> Lawson(id:227482395622899723): ?vol 50
+<Mon, 04/13/2020 01:32:41PM> Lawson(id:227482395622899723): ?volume 50
+<Mon, 04/13/2020 01:32:55PM> Lawson(id:227482395622899723): ?play
+<Mon, 04/13/2020 01:33:01PM> Lawson(id:227482395622899723): ?skip
+<Mon, 04/13/2020 01:33:04PM> Lawson(id:227482395622899723): ?queue
+<Mon, 04/13/2020 01:33:20PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/0ZFayEwoO5qqYjsOi8YDjO
+<Mon, 04/13/2020 01:34:14PM> Lawson(id:227482395622899723): ?vol 10
+<Mon, 04/13/2020 01:34:19PM> Lawson(id:227482395622899723): ?volume 100
+<Mon, 04/13/2020 01:34:36PM> Chimpy(id:318849319581253633): A- Yankee with Yankee Brim
+<Mon, 04/13/2020 01:35:19PM> Chimpy(id:318849319581253633): A- No Yankee with Brim
+<Mon, 04/13/2020 01:35:34PM> Lawson(id:227482395622899723): ?stop
+<Mon, 04/13/2020 01:35:35PM> Crommy(id:319403178976083968): A- Whip and nae ane
+<Mon, 04/13/2020 01:35:36PM> Lawson(id:227482395622899723): ?leave
+<Mon, 04/13/2020 01:35:54PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/0ZFayEwoO5qqYjsOi8YDjO
+<Mon, 04/13/2020 01:36:16PM> Lawson(id:227482395622899723): ?join
+<Mon, 04/13/2020 01:36:19PM> Lawson(id:227482395622899723): ?play https://open.spotify.com/track/0ZFayEwoO5qqYjsOi8YDjO
+<Mon, 04/13/2020 01:36:42PM> Lawson(id:227482395622899723): ?volume
+<Mon, 04/13/2020 01:36:48PM> Lawson(id:227482395622899723): ?volume 50
+<Mon, 04/13/2020 01:36:53PM> Lawson(id:227482395622899723): ?volume 200
+<Mon, 04/13/2020 01:37:01PM> Lawson(id:227482395622899723): ?volume 500
+<Mon, 04/13/2020 01:37:05PM> Lawson(id:227482395622899723): ?stop
+<Mon, 04/13/2020 01:37:07PM> Lawson(id:227482395622899723): ?eave
+<Mon, 04/13/2020 01:37:09PM> Lawson(id:227482395622899723): ?leave
+<Mon, 04/13/2020 01:38:33PM> LJ xD(id:264173560585650178): 
+<Mon, 04/13/2020 01:38:43PM> LJ xD(id:264173560585650178): 
+<Mon, 04/13/2020 01:39:55PM> LJ xD(id:264173560585650178): 
+<Mon, 04/13/2020 01:40:10PM> LJ xD(id:264173560585650178): 
